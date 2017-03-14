@@ -1,0 +1,26 @@
+{
+  "id":1,
+  "title": "app",
+  "authors": [
+    "xuqinhao"
+  ],
+  "description": "",
+  "main": "app.js",
+  "keywords": [
+    "blog"
+  ],
+  "contents":[
+    {
+      "type":"text",
+      "content":"123"
+    },
+    {
+      "type":"img",
+      "content":"www.baidu.com"
+    },
+    {
+      "type":"text",
+      "content":"456"
+    }
+  ]
+}
